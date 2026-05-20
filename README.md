@@ -112,3 +112,45 @@ Bridge domain:
 3. STRUCTURAL RESEARCH MODEL
 
 3.1 Layered Architecture
+
+Layer
+
+Domain
+
+Function
+
+L1
+
+Geometry
+
+Defines spacetime structure
+
+L2
+
+Relativity
+
+Governs curvature dynamics
+
+L3
+
+Quantum Mechanics
+
+Defines state behavior
+
+L4
+
+Entanglement
+
+Links non-local systems
+
+L5
+
+Information Theory
+
+Tracks entropy / Page curve
+
+L6
+
+Quantum Gravity
+
+Unifies all layers
