@@ -395,3 +395,82 @@ Preferred sources:
 - Caltech / Preskill lecture notes
 - APS / Physical Review
 - arXiv papers where appropriate
+
+# Project Scope
+
+## Core Question
+
+How can geometric concepts of spacetime curvature be taught alongside quantum entanglement, the Page curve, and black-hole information theory?
+
+## Included Topics
+
+1. Differential geometry foundations
+2. General relativity and spacetime curvature
+3. Black-hole horizons and Hawking radiation
+4. Quantum entanglement
+5. Page curve and black-hole information
+6. Holographic entanglement entropy
+7. Research-frontier links between geometry and entanglement
+
+## Excluded / Restricted
+
+- No claim that quantum gravity is solved.
+- No claim that ER=EPR is experimentally confirmed.
+- No Wikipedia citations.
+- No unsourced speculative claims.
+
+# Research Validation
+
+## Validated Claims
+
+1. General relativity uses spacetime geometry to describe gravity.
+2. Differential geometry is required for advanced study of general relativity.
+3. Black holes are strong-gravity systems where spacetime curvature becomes central.
+4. Quantum entanglement produces correlations not explainable by classical local realism.
+5. The Page curve concerns the entropy of Hawking radiation in black-hole evaporation.
+6. Holographic entanglement entropy connects quantum information and geometry in AdS/CFT.
+7. ER=EPR is a conjectural research idea linking entanglement and wormhole geometry.
+
+## Educational Classification
+
+- Established physics:
+  - General relativity
+  - Spacetime curvature
+  - Quantum entanglement
+  - Bell inequality framework
+
+- Advanced theoretical physics:
+  - Page curve
+  - Black-hole information paradox
+  - Holographic entanglement entropy
+
+- Research-frontier / conjectural:
+  - Emergent spacetime from entanglement
+  - ER=EPR
+
+# Source List — No Wikipedia
+
+## NASA
+
+- NASA Science — General Relativity and the Nature of Spacetime
+
+## MIT OpenCourseWare
+
+- MIT 8.962 General Relativity
+- MIT lecture notes on Bell inequality and quantum entanglement
+
+## Caltech
+
+- John Preskill, Quantum Computation / Quantum Information lecture notes, chapter on quantum entanglement
+
+## APS / Physical Review
+
+- Don N. Page, “Information in Black Hole Radiation”
+- Almheiri, Hartman, Maldacena, Shaghoulian, Tajdini, “The entropy of Hawking radiation,” Reviews of Modern Physics
+
+## arXiv
+
+- Page, Information in Black Hole Radiation
+- Ryu and Takayanagi, Holographic Derivation of Entanglement Entropy from AdS/CFT
+- Maldacena and Susskind, Cool Horizons for Entangled Black Holes
+
