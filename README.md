@@ -154,3 +154,84 @@ L6
 Quantum Gravity
 
 Unifies all layers
+
+3.2 Conceptual Flow
+
+Mass/Energy → Curvature → Horizon Formation  
+→ Hawking Radiation → Entropy Growth  
+→ Entanglement Structure → Page Curve Peak  
+→ Information Recovery → Geometry Reconstruction
+
+4. EDUCATIONAL MODULE DESIGN
+
+Module 01 — Foundations of Geometry
+
+* Euclidean vs non-Euclidean geometry
+* Introduction to manifolds
+
+Module 02 — Curved Spacetime
+
+* Einstein field equations
+* Visualization of curvature
+
+Module 03 — Black Hole Geometry
+
+* Event horizon structure
+* Singularities and limits
+
+Module 04 — Quantum Systems
+
+* Wavefunctions
+* Hilbert space basics
+
+Module 05 — Entanglement
+
+* Bell states
+* Measurement implications
+
+Module 06 — Page Curve Analysis
+
+* Entropy evolution modeling
+* Information paradox
+
+Module 07 — Geometry ↔ Entanglement
+
+* ER=EPR concept
+* Emergent spacetime hypotheses
+
+Module 08 — Applied Synthesis
+
+* Simulations
+* Conceptual models
+* Research proposals
+
+⸻
+
+5. RESEARCH METHODOLOGY
+
+5.1 Source Requirements
+
+* Primary:
+    * NASA
+    * MIT OpenCourseWare
+    * Stanford / Harvard physics publications
+    * Peer-reviewed journals (APS, Nature Physics)
+* Secondary:
+    * Textbooks (General Relativity, Quantum Mechanics)
+    * Verified institutional lectures
+
+⸻
+
+5.2 Analytical Methods
+
+* Mathematical modeling
+* Conceptual diagramming
+* Comparative theory analysis
+* Simulation (optional future stage)
+
+⸻
+
+6. OUTPUT STRUCTURE (FOR GGTC DEPLOYMENT)
+
+6.1 Repository Layout (Suggested)
+
