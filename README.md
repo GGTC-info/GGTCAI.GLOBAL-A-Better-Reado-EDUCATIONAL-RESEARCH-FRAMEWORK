@@ -338,3 +338,60 @@ Educational caution
 Required
 
 ER=EPR, Page-curve reconstruction, and holographic spacetime emergence should be labeled research-frontier / conjectural, not settled classroom fact.  
+
+GGTC_PUBLISHING_SPACETIME_PAGE_CURVE_ENTANGLEMENT_RESEARCH_V000/
+│
+├── README.md
+├── PROJECT_SCOPE.md
+├── CITATION_POLICY.md
+├── RESEARCH_VALIDATION.md
+├── MODULE_INDEX.md
+│
+├── modules/
+│   ├── MODULE_01_GEOMETRY_FOUNDATIONS.md
+│   ├── MODULE_02_SPACETIME_CURVATURE.md
+│   ├── MODULE_03_BLACK_HOLES_AND_HORIZONS.md
+│   ├── MODULE_04_QUANTUM_ENTANGLEMENT.md
+│   ├── MODULE_05_PAGE_CURVE.md
+│   ├── MODULE_06_HOLOGRAPHY_AND_ENTANGLEMENT_GEOMETRY.md
+│   └── MODULE_07_RESEARCH_SYNTHESIS.md
+│
+├── references/
+│   ├── SOURCES.md
+│   └── BIBLIOGRAPHY_STARTER.md
+│
+├── assets/
+│   ├── diagrams/
+│   └── equations/
+│
+└── version_log/
+    └── CHANGELOG.md
+
+# GGTC Publishing — Spacetime Geometry, Page Curve, Entanglement, and Quantum Physics Research Framework
+
+Date: April 26, 2026  
+Time: 08:12  
+Lane: GGTC Publishing  
+Status: V000 — Research Framework Initialization
+
+## Purpose
+
+This repository develops an educational research framework on geometric concepts in spacetime, black-hole information theory, the Page curve, quantum entanglement, and related quantum-physics concepts.
+
+## Research Position
+
+This project treats:
+- spacetime curvature as established within general relativity;
+- quantum entanglement as established within quantum theory;
+- the Page curve as an advanced black-hole information concept;
+- holographic geometry and ER=EPR as research-frontier topics.
+
+## Source Rule
+
+No Wikipedia sources are used.
+Preferred sources:
+- NASA
+- MIT OpenCourseWare
+- Caltech / Preskill lecture notes
+- APS / Physical Review
+- arXiv papers where appropriate
