@@ -235,3 +235,12 @@ Module 08 — Applied Synthesis
 
 6.1 Repository Layout (Suggested)
 
+
+GGTC_SPACETIME_GEOMETRY_PROJECT/
+│
+├── /MODULES
+├── /DIAGRAMS
+├── /MATH_MODELS
+├── /REFERENCES
+├── /PUBLICATION_DRAFTS
+└── /VERSION_LOG
