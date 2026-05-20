@@ -474,3 +474,349 @@ How can geometric concepts of spacetime curvature be taught alongside quantum en
 - Ryu and Takayanagi, Holographic Derivation of Entanglement Entropy from AdS/CFT
 - Maldacena and Susskind, Cool Horizons for Entangled Black Holes
 
+MODULE_01_GEOMETRY_FOUNDATIONS.md
+
+Geometry → General Relativity → Black Holes → Entanglement → Page Curve → Holography → Synthesis
+
+MODULE_01_GEOMETRY_FOUNDATIONS.md
+
+GGTC PUBLISHING — STRUCTURED EDUCATIONAL MODULE
+Status: V000 Draft
+Classification: Foundational (Pre-requisite for all downstream modules)
+
+⸻
+
+1. OBJECTIVE
+
+Establish the mathematical and conceptual foundation required to understand:
+
+* Curved spacetime (Module 02)
+* Black hole geometry (Module 03)
+* Entanglement–geometry relationships (Modules 05–06)
+
+This module remains strictly within validated mathematics and physics fundamentals.
+
+⸻
+
+2. LEARNING OUTCOMES
+
+By completion, the reader should be able to:
+
+* Distinguish between Euclidean and non-Euclidean geometry
+* Understand what a manifold is in a physical context
+* Interpret distance and curvature mathematically
+* Recognize why geometry is required for general relativity
+
+⸻
+
+3. CORE CONCEPTS
+
+⸻
+
+3.1 Euclidean Geometry (Baseline Model)
+
+Definition:
+
+* Geometry of flat space
+* Governed by classical rules (parallel lines never meet, triangle sum = 180°)
+
+Limit:
+
+* Does not describe gravitational systems or curved spacetime
+
+⸻
+
+3.2 Non-Euclidean Geometry
+
+Definition:
+
+* Geometry of curved surfaces or spaces
+
+Types:
+
+* Spherical geometry (positive curvature)
+* Hyperbolic geometry (negative curvature)
+
+Implication:
+
+* Parallel lines may converge or diverge
+* Triangle angles ≠ 180°
+
+⸻
+
+3.3 Manifolds
+
+Definition:
+
+* A manifold is a space that is locally flat but globally can be curved
+
+Interpretation:
+
+* Small regions behave like standard coordinate space
+* Large-scale structure may be curved
+
+Example:
+
+* Earth’s surface:
+    * Locally flat → usable maps
+    * Globally curved → spherical geometry
+
+⸻
+
+3.4 Distance and Metrics
+
+To measure geometry, a metric is required.
+
+Euclidean distance (reference case):
+
+ds^2 = dx^2 + dy^2 + dz^2
+
+Extension:
+
+* In curved space, this becomes generalized (metric tensor)
+
+Interpretation:
+
+* The metric defines:
+    * Distance
+    * Angles
+    * Geometry structure
+
+⸻
+
+3.5 Curvature (Conceptual)
+
+Curvature describes how space deviates from flatness.
+
+Types:
+
+* Intrinsic curvature (measurable within the space)
+* Extrinsic curvature (embedding-dependent; not required for GR)
+
+Key point:
+
+* Curvature can exist without embedding in higher dimensions
+
+⸻
+
+4. WHY THIS MATTERS FOR PHYSICS
+
+4.1 Transition to General Relativity
+
+General relativity requires:
+
+* A curved spacetime model
+* Geometry as the language of gravity
+
+Validated position:
+
+* Gravity is not a force in the classical sense
+* It is a geometric effect of curvature
+
+Source basis:
+
+* NASA: General relativity describes how mass-energy affects spacetime structure and governs gravitational behavior
+* MIT OCW: Differential geometry is foundational for GR-level physics
+
+⸻
+
+4.2 Conceptual Bridge to Later Modules
+
+This Module
+
+Leads To
+
+Manifolds
+
+Spacetime structure
+
+Metrics
+
+Einstein field equations
+
+Curvature
+
+Black hole geometry
+
+Geometry
+
+Entanglement–geometry links
+
+5. VISUALIZATION REQUIREMENTS (FOR REPO ASSETS)
+
+To be created in /assets/diagrams/:
+
+* Flat vs curved grid comparison
+* Sphere vs plane triangle angle comparison
+* Geodesic paths on curved surfaces
+* Local flat patch vs global curvature diagram
+
+Format:
+
+* SVG (vector-first)
+* No raster-only assets
+
+⸻
+
+6. SOURCE VALIDATION (NON-WIKI)
+
+Primary Sources
+
+* NASA — General Relativity and Spacetime
+    * Establishes curvature as the basis of gravity
+    * https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/general-relativity-and-the-nature-of-spacetime/
+* MIT OpenCourseWare — General Relativity (8.962)
+    * Confirms use of differential geometry and manifolds in GR
+    * https://ocw.mit.edu/courses/8-962-general-relativity-spring-2020/
+
+Supporting Academic Context
+
+* Standard GR textbooks (Carroll, Wald) align with:
+    * Manifolds
+    * Metric tensors
+    * Curvature as physical structure
+
+⸻
+
+7. CONSTRAINTS / NON-CLAIMS
+
+* No claim that geometry alone explains quantum behavior
+* No introduction of quantum gravity assumptions
+* No linkage to Page curve or entanglement at this stage
+
+⸻
+
+8. NEXT MODULE LINK
+
+Proceed to:
+
+MODULE_02_SPACETIME_CURVATURE.md
+
+9. VERSION LOG ENTRY
+
+Version: V000
+Status: Initial structured release
+Validation: NASA + MIT OCW aligned
+Dependencies: None (entry module)
+Next Dependency: MODULE_02
+
+GGTC PUBLISHING — SOURCE CORRECTION UPDATE
+
+Date: April 26, 2026
+Time: 08:18 (GGTC.info)
+Action: Source validation correction and replacement (Wikipedia fully removed)
+
+⸻
+
+1. ISSUE IDENTIFIED
+
+Your observation is correct.
+
+* Prior “bucket” grouping mixed primary, secondary, and repository-style references
+* Some entries (e.g., arXiv without qualification) were treated as equivalent to institutional sources
+* This does not meet GGTC Publishing standard for:
+    * authority clarity
+    * validation hierarchy
+    * strict non-Wikipedia / non-ambiguous sourcing
+
+⸻
+
+2. CORRECTED SOURCE STANDARD (ENFORCED)
+
+All sources are now classified into three strict tiers:
+
+Tier
+
+Type
+
+Requirement
+
+Tier 1
+
+Institutional / Government
+
+Highest authority (NASA, NIST, universities)
+
+Tier 2
+
+Peer-reviewed journals
+
+APS, Nature, Physical Review
+
+Tier 3
+
+Academic courseware
+
+MIT OCW, Stanford, Caltech lectures
+
+Removed:
+
+* Wikipedia (fully excluded)
+* Unqualified aggregators
+* Any source without clear authorship or institutional backing
+
+3. UPDATED SOURCES.md (REPLACEMENT — GIT READY)
+
+# GGTC Publishing — Verified Source Registry
+# (Wikipedia Excluded — Strict Institutional Standard)
+
+## TIER 1 — INSTITUTIONAL / GOVERNMENT
+
+### NASA
+- NASA Science — General Relativity and the Nature of Spacetime  
+  https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/general-relativity-and-the-nature-of-spacetime/
+
+### NIST (National Institute of Standards and Technology)
+- Foundations of physical measurement and standards (reference support for metric interpretation)  
+  https://www.nist.gov/
+
+---
+
+## TIER 2 — PEER-REVIEWED PHYSICS (PRIMARY LITERATURE)
+
+### American Physical Society (APS)
+- Don N. Page (1993) — *Information in Black Hole Radiation*  
+  Physical Review Letters  
+  https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.71.3743
+
+- Almheiri et al. — *The Entropy of Hawking Radiation*  
+  Reviews of Modern Physics  
+  https://link.aps.org/doi/10.1103/RevModPhys.93.035002
+
+### Nature Physics / Related Journals
+- Supporting literature on black hole thermodynamics and quantum information
+
+---
+
+## TIER 3 — ACADEMIC COURSEWARE (STRUCTURED EDUCATION)
+
+### MIT OpenCourseWare
+- 8.962 General Relativity (Graduate Level)  
+  https://ocw.mit.edu/courses/8-962-general-relativity-spring-2020/
+
+- Quantum Physics / Bell Inequality lecture materials  
+  https://ocw.mit.edu/
+
+### Caltech (John Preskill)
+- Quantum Computation Lecture Notes — Entanglement  
+  https://www.preskill.caltech.edu/ph229/
+
+---
+
+## TIER 4 — CONTROLLED PREPRINT (LIMITED USE)
+
+### arXiv (Used with Constraints)
+Allowed ONLY when:
+- Author is established physicist
+- Paper is widely cited in literature
+- Concept is labeled as research-frontier
+
+Approved:
+- Ryu & Takayanagi — Entanglement Entropy (AdS/CFT)  
+  https://arxiv.org/abs/hep-th/0603001
+
+- Maldacena & Susskind — ER=EPR  
+  https://arxiv.org/abs/1306.0533
+
+Constraint:
+- Must NOT be presented as experimentally confirmed
